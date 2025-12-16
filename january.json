@@ -1,20 +1,36 @@
 {
   "month": "January",
   "movies": [
-    {
-      "day": 1,
-      "title": "Your Name",
-      "rating": 8.4,
-      "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png",
-      "description": "A boy and girl mysteriously switch bodies across timelines."
-    },
-    {
-      "day": 2,
-      "title": "A Silent Voice",
-      "rating": 8.1,
-      "image": "https://upload.wikimedia.org/wikipedia/en/3/32/A_Silent_Voice_Film_Poster.jpg",
-      "description": "A former bully seeks redemption with the deaf girl he once tormented."
-    }
+    { "day": 1, "title": "Your Name", "rating": 8.4, "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png", "description": "Two teenagers mysteriously swap bodies across time and space." },
+    { "day": 2, "title": "A Silent Voice", "rating": 8.1, "image": "https://upload.wikimedia.org/wikipedia/en/3/32/A_Silent_Voice_Film_Poster.jpg", "description": "A former bully seeks redemption by reconnecting with a deaf girl." },
+    { "day": 3, "title": "Spirited Away", "rating": 8.6, "image": "https://upload.wikimedia.org/wikipedia/en/d/db/Spirited_Away_Japanese_poster.png", "description": "A girl enters a magical spirit world to save her parents." },
+    { "day": 4, "title": "Weathering With You", "rating": 7.5, "image": "https://upload.wikimedia.org/wikipedia/en/6/66/Weathering_with_You_Poster.jpg", "description": "A boy meets a girl who can control the weather." },
+    { "day": 5, "title": "Suzume", "rating": 7.8, "image": "https://upload.wikimedia.org/wikipedia/en/6/62/Suzume_no_Tojimari_poster.jpg", "description": "A girl closes supernatural doors causing disasters across Japan." },
+    { "day": 6, "title": "The Garden of Words", "rating": 7.4, "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/The_Garden_of_Words_poster.png", "description": "Two lonely people bond on rainy mornings in a garden." },
+    { "day": 7, "title": "The Girl Who Leapt Through Time", "rating": 7.7, "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/The_Girl_Who_Leapt_Through_Time_poster.jpg", "description": "A girl discovers the power to travel through time." },
+    { "day": 8, "title": "5 Centimeters Per Second", "rating": 7.5, "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/5_Centimeters_per_Second_poster.png", "description": "A bittersweet story of love and distance." },
+    { "day": 9, "title": "Howl’s Moving Castle", "rating": 8.2, "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/Howls-moving-castleposter.jpg", "description": "A cursed girl finds refuge in a wizard’s moving castle." },
+    { "day": 10, "title": "Princess Mononoke", "rating": 8.3, "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Princess_Mononoke_Japanese_poster.png", "description": "Humans and forest spirits fight over nature’s future." },
+    { "day": 11, "title": "The Wind Rises", "rating": 7.8, "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/The_Wind_Rises_poster.jpg", "description": "A dreamer designs aircraft during wartime Japan." },
+    { "day": 12, "title": "Grave of the Fireflies", "rating": 8.5, "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grave_of_the_Fireflies_Japanese_poster.jpg", "description": "Two siblings struggle to survive during World War II." },
+    { "day": 13, "title": "Akira", "rating": 8.0, "image": "https://upload.wikimedia.org/wikipedia/en/5/5d/AKIRA_%281988_poster%29.jpg", "description": "Psychic powers threaten a futuristic Neo-Tokyo." },
+    { "day": 14, "title": "Demon Slayer: Mugen Train", "rating": 8.2, "image": "https://upload.wikimedia.org/wikipedia/en/2/2e/Demon_Slayer_Mugen_Train_poster.jpg", "description": "Demon slayers battle a powerful enemy on a train." },
+    { "day": 15, "title": "Jujutsu Kaisen 0", "rating": 7.8, "image": "https://upload.wikimedia.org/wikipedia/en/7/77/Jujutsu_Kaisen_0_poster.jpg", "description": "A cursed boy joins a school of sorcerers." },
+    { "day": 16, "title": "One Piece Film: Red", "rating": 6.5, "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/One_Piece_Film_Red_poster.jpg", "description": "A world-famous singer hides a dangerous secret." },
+    { "day": 17, "title": "A Whisker Away", "rating": 6.7, "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/A_Whisker_Away_poster.png", "description": "A girl transforms into a cat to get closer to her crush." },
+    { "day": 18, "title": "The Boy and the Heron", "rating": 7.4, "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/The_Boy_and_the_Heron_poster.jpg", "description": "A boy enters a strange world guided by a heron." },
+    { "day": 19, "title": "I Want to Eat Your Pancreas", "rating": 8.0, "image": "https://upload.wikimedia.org/wikipedia/en/5/5d/I_Want_to_Eat_Your_Pancreas_poster.png", "description": "A terminally ill girl changes a quiet boy’s life." },
+    { "day": 20, "title": "Bubble", "rating": 6.4, "image": "https://upload.wikimedia.org/wikipedia/en/6/6c/Bubble_2022_film_poster.png", "description": "A mysterious girl appears in a gravity-defying Tokyo." },
+    { "day": 21, "title": "Ride Your Wave", "rating": 6.9, "image": "https://upload.wikimedia.org/wikipedia/en/2/2b/Ride_Your_Wave_poster.png", "description": "A girl finds comfort in memories after loss." },
+    { "day": 22, "title": "The Anthem of the Heart", "rating": 7.4, "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/The_Anthem_of_the_Heart_poster.png", "description": "A silent girl finds healing through music." },
+    { "day": 23, "title": "Wolf Children", "rating": 8.1, "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/Wolf_Children_poster.jpg", "description": "A mother raises two half-wolf children." },
+    { "day": 24, "title": "The Boy and the Beast", "rating": 7.7, "image": "https://upload.wikimedia.org/wikipedia/en/7/7a/The_Boy_and_the_Beast_poster.png", "description": "A boy trains under a beast warrior in another world." },
+    { "day": 25, "title": "Paprika", "rating": 7.7, "image": "https://upload.wikimedia.org/wikipedia/en/9/9c/Paprika_anime_poster.jpg", "description": "Dreams and reality blur after a device is stolen." },
+    { "day": 26, "title": "Perfect Blue", "rating": 8.0, "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Perfect_Blue_poster.png", "description": "A pop idol’s life spirals into psychological horror." },
+    { "day": 27, "title": "Tokyo Godfathers", "rating": 7.8, "image": "https://upload.wikimedia.org/wikipedia/en/0/08/Tokyo_Godfathers_poster.png", "description": "Three homeless people find an abandoned baby." },
+    { "day": 28, "title": "Nausicaä of the Valley of the Wind", "rating": 8.0, "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Nausicaa_poster.jpg", "description": "A princess fights to protect a toxic jungle." },
+    { "day": 29, "title": "Kiki’s Delivery Service", "rating": 7.8, "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Kiki%27s_Delivery_Service_poster.png", "description": "A young witch starts a delivery business." },
+    { "day": 30, "title": "The Tale of the Princess Kaguya", "rating": 8.0, "image": "https://upload.wikimedia.org/wikipedia/en/8/8c/The_Tale_of_the_Princess_Kaguya_poster.jpg", "description": "A magical girl grows up facing human emotions." },
+    { "day": 31, "title": "Castle in the Sky", "rating": 8.0, "image": "https://upload.wikimedia.org/wikipedia/en/4/4e/Castle_in_the_Sky_poster.jpg", "description": "Two children search for a legendary floating island." }
   ]
 }
-
