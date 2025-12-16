@@ -1,0 +1,20 @@
+{
+  "month": "January",
+  "movies": [
+    {
+      "day": 1,
+      "title": "Your Name",
+      "rating": 8.4,
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png",
+      "description": "A boy and girl mysteriously switch bodies across timelines."
+    },
+    {
+      "day": 2,
+      "title": "A Silent Voice",
+      "rating": 8.1,
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/32/A_Silent_Voice_Film_Poster.jpg",
+      "description": "A former bully seeks redemption with the deaf girl he once tormented."
+    }
+  ]
+}
+
