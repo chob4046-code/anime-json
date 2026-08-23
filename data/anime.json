@@ -1,0 +1,57 @@
+[
+  {
+    "id": "anime-001",
+    "title": "Your Name",
+    "type": "movie",
+    "year": 2016,
+    "genres": ["Romance", "Fantasy", "Drama"],
+    "score": 8.8,
+    "duration_minutes": 106,
+    "language": "Japanese",
+    "tags": ["time-travel", "body-swap", "coming-of-age"]
+  },
+  {
+    "id": "anime-002",
+    "title": "A Silent Voice",
+    "type": "movie",
+    "year": 2016,
+    "genres": ["Drama", "Romance", "School"],
+    "score": 8.1,
+    "duration_minutes": 130,
+    "language": "Japanese",
+    "tags": ["redemption", "friendship", "school"]
+  },
+  {
+    "id": "anime-003",
+    "title": "Spirited Away",
+    "type": "movie",
+    "year": 2001,
+    "genres": ["Fantasy", "Adventure", "Drama"],
+    "score": 8.6,
+    "duration_minutes": 125,
+    "language": "Japanese",
+    "tags": ["magic", "adventure", "coming-of-age"]
+  },
+  {
+    "id": "anime-004",
+    "title": "Weathering with You",
+    "type": "movie",
+    "year": 2019,
+    "genres": ["Romance", "Fantasy", "Drama"],
+    "score": 8.1,
+    "duration_minutes": 112,
+    "language": "Japanese",
+    "tags": ["weather", "romance", "fantasy"]
+  },
+  {
+    "id": "anime-005",
+    "title": "Princess Mononoke",
+    "type": "movie",
+    "year": 1997,
+    "genres": ["Fantasy", "Adventure", "Action"],
+    "score": 8.3,
+    "duration_minutes": 133,
+    "language": "Japanese",
+    "tags": ["nature", "war", "adventure"]
+  }
+]
