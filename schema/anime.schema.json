@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/chob4046-code/anime-json/blob/main/schema/anime.schema.json",
+  "title": "Anime Movie Dataset",
+  "description": "Schema for anime movie recommendation records.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "title", "type", "year", "genres", "score", "duration_minutes", "language", "tags"],
+    "properties": {
+      "id": {"type": "string", "minLength": 1},
+      "title": {"type": "string", "minLength": 1},
+      "type": {"type": "string", "enum": ["movie"]},
+      "year": {"type": "integer", "minimum": 1900, "maximum": 2100},
+      "genres": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+      "score": {"type": "number", "minimum": 0, "maximum": 10},
+      "duration_minutes": {"type": "integer", "minimum": 1},
+      "language": {"type": "string", "minLength": 1},
+      "tags": {"type": "array", "items": {"type": "string"}}
+    },
+    "additionalProperties": false
+  }
+}
